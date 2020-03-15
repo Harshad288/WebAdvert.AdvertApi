@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Authors>Harshad</Authors>
+    <Company>None</Company>
+    <Product>Web Advert Microservices</Product>
+    <PackageProjectUrl>https://github.com/Harshad288/WebAdvert.AdvertApi.git</PackageProjectUrl>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageId>AdvertApi.Models.Harshad</PackageId>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
